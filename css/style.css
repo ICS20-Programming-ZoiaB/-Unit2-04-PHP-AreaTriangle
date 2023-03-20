@@ -1,0 +1,54 @@
+/* Created by: ZoiaB
+ * Created on: March 2022
+ * This CSS file defines the style for index.php
+ * ICS2O-Unit2-04-PHP-AreaTriangle
+*/
+
+body {
+  background-color: #d5f2fe;
+}
+
+form {
+  background-color: #d5f2fe;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h1 { 
+  background-color: #aa5db1;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h3 {
+  background-color: #aa5db1;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+p {
+  width: 80%;
+  margin-left: 10%;
+}
+
+iframe {
+  margin-bottom: 5%;
+  background-color: #aa5db1;
+	padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+	margin-top: 15px;
+}
+
+#yellow {
+  background-color: #87c10b;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 30px;
+}
