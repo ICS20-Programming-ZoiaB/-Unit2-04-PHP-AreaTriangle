@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="description" content="My first webpage with user input">
     <meta name="keywords" content="immaculata, ics2o">
-    <meta name="author" content="Ms Raffin">
+    <meta name="author" content="ZoiaB">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Favicon -->
