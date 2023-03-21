@@ -31,11 +31,6 @@ h3 {
   margin-left: 10%;
 }
 
-p {
-  width: 80%;
-  margin-left: 10%;
-}
-
 iframe {
   margin-bottom: 5%;
   background-color: #aa5db1;
@@ -43,12 +38,4 @@ iframe {
   width: 80%;
   margin-left: 10%;
 	margin-top: 15px;
-}
-
-#yellow {
-  background-color: #87c10b;
-  padding: 20px;
-  width: 80%;
-  margin-left: 10%;
-  margin-bottom: 30px;
 }
